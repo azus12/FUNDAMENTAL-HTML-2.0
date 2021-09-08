@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <Head>
+        <title>dhdhd</title>
+    </Head>
+    <body>
+        <form action="">
+        <input type="text" placeholder="Search">
+        <br>
+        <input type="submit" value="Search">
+        <br>
+        <br>
+         <select> 
+            <option value="">Select Make</option>
+        </select>
+        <br>
+       <select >
+        <option value="">Select Model</option>
+       </select>
+       <br>
+    <select>
+        <option value="">Select Type</option>
+    </select>
+    <br>
+<select>
+    <option value="">Select Price Range</option>
+</select>
+    </form>
+
+        
+           <table border="1" width="70%" height="80">
+               
+               <tr>
+                   <th>Image</th>
+                   <th>make</th>
+                   <th>Model</th>
+                   <th>Type</th>
+                   <th>Price</th>
+               
+               </tr>
+               <tr>
+                   <td>
+                       <img src="https://media.guitarcenter.com/is/image/MMGS7/Les-Paul-Standard-50s-Electric-Guitar-Heritage-Cherry-Sunburst/L72811000002000-00-500x500.jpg" width="75" height="75" alt="">
+                   </td>
+                   <td>Gibson</td>
+                   <td>Les Paul</td>
+                   <td>Electric</td>
+                   <td>$3.000</td>
+               </tr>
+               <tr>
+                   <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ad5NnuBUr729cCYTpVeqVNXITbmTaFA3-g&usqp=CAU" width="75" height="75" alt=""></td>
+                   <td>Gibson</td>
+                   <td>SG</td>
+                   <td>Electric</td>
+                   <td>$1.500</td>
+               </tr>
+               <tr>
+                   <td><img src="https://cdn.shopify.com/s/files/1/0343/4368/2183/products/fender-electric-guitars-solid-body-fender-player-stratocaster-plus-top-aged-cherry-burst-0144552531-17215855558791_1000x.jpg?v=1628998917" width="75" height="75" alt=""></td>
+                   <td>Fender</td>
+                   <td>Telecaster</td>
+                   <td>Electric</td>
+                   <td>$2.000</td>
+               </tr>
+               <tr>
+                   <td><img src="https://cdn.shopify.com/s/files/1/0509/5037/3566/products/fenderstrat2004anniversary_02_720x.jpg?v=1626137470" width="70" height="80" alt=""></td>
+                   <td>Fender</td>
+                   <td>Stradocaster</td>
+                   <td>Electric</td>
+                   <td>$2.000</td>
+               </tr>
+           </table>
+         
+              
+              
+           
+        
+           
+               
+           
+           
+           
+    </body>
+</html>
